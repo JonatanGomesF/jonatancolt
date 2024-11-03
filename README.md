@@ -1,12 +1,5 @@
 
-Minhas Estatísticas no GitHub:
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jonatancolt&show_icons=true&theme=radical)
-
-
-
 ### Tecnologias que uso
-
 <div style="display: flex; flex-wrap: wrap; gap: 10px;">
 
   ![Python](https://img.shields.io/badge/Python-3.9-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -23,6 +16,9 @@ Minhas Estatísticas no GitHub:
 
 
 
+Minhas Estatísticas no GitHub:
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jonatancolt&show_icons=true&theme=radical)
 
 
 
