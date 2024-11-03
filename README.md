@@ -1,6 +1,8 @@
 
 ### Tecnologias que uso
+
 <div style="display: flex; flex-wrap: wrap; gap: 10px;">
+
   ![Python](https://img.shields.io/badge/Python-3.9-3776AB?style=for-the-badge&logo=python&logoColor=white)
   ![JavaScript](https://img.shields.io/badge/JavaScript-ES6-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
   ![React](https://img.shields.io/badge/React-17.0.2-61DAFB?style=for-the-badge&logo=react&logoColor=black)
@@ -11,6 +13,7 @@
   ![jQuery](https://img.shields.io/badge/jQuery-3.6.0-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
   ![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-2.2.19-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white)
 </div>
+
 Minhas Estatísticas no GitHub:
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jonatancolt&show_icons=true&theme=radical)
