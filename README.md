@@ -16,7 +16,7 @@
 
 Minhas Estatísticas no GitHub:
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jonatancolt&show_icons=true&theme=radical)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=JonatanGomesF&show_icons=true&theme=radical)
 
 
 
